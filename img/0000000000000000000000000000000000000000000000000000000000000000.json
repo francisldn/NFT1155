@@ -1,0 +1,20 @@
+{
+    "image": "https://wfcgxtzdogxn.moralishost.com/artwork1.jpg",
+    "description": "This mantis is one in a collection of 6 different types with various power and skills.",
+    "name": "Mantis Alpha",
+    "attributes": [
+        {
+            "trait_type":"Power",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type":"Eyes",
+            "value": "Laser"
+        },
+        {
+            "trait_type":"Skill",
+            "value": "Martial Arts"
+        }
+    ]
+}
+
