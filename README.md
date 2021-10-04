@@ -8,7 +8,7 @@ Dependencies:
 - Moralis.io for hosting metadata and image
 
 Contract:
-The NFT contract uses ERC1155 standards and is deployed to 0x7a74cC830Cc38f2666d70F94625c9a654f8d7A2c @ Rinkeby testnet.
+The NFT contract uses ERC1155 standards and is deployed to 0x7a74cC830Cc38f2666d70F94625c9a654f8d7A2c @ Rinkeby testnet (https://rinkeby.etherscan.io/address/0x7a74cC830Cc38f2666d70F94625c9a654f8d7A2c#code). Contract source code has been verified. 
 
 Image and Metadata:
 Image and metadata are hosted by moralis (https://wfcgxtzdogxn.moralishost.com/0000000000000000000000000000000000000000000000000000000000000000.json) following the convention stipulated by ERC1155.
